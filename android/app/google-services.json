@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346996712214",
+    "project_id": "appifysocm",
+    "storage_bucket": "appifysocm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346996712214:android:931e9224783ee38d0ee637",
+        "android_client_info": {
+          "package_name": "com.sif.appify_lab_socm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1I0XMDfeDqDtj8uZNcw_jrGEc-BXH_Vg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
